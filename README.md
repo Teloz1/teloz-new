@@ -1,4 +1,4 @@
-# README for Business Communication Website
+# Business Communication Website
 
 ## Project Overview
 This project is a responsive and professional-looking website for showcasing reliable communication solutions for businesses. It features:
